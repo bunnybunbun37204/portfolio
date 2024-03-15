@@ -14,8 +14,8 @@ export const info = {
 
   experience: [
     {
-      name: "InterNative Labs, LLC",
-      location: "Karāchi, Sindh, Pakistan",
+      name: "Wichienmatu School",
+      location: "Trang, Thailand",
       startDate: "Apr 2022",
       endDate: "Present",
       description: [
@@ -25,8 +25,8 @@ export const info = {
     },
 
     {
-      name: "Coupon Approve (Remote)",
-      location: "Amsterdam, North Holland, Netherlands",
+      name: "CTO, Smovidya Chulalongkorn",
+      location: "Bangkok, Thailand",
       startDate: "Nov 2020",
       endDate: "Apr 2022",
       description: [
@@ -40,7 +40,7 @@ export const info = {
     },
 
     {
-      name: "Interns Pakistan",
+      name: "Interns CBA",
       location: "Pakistan",
       startDate: "Oct 2020",
       endDate: "Nov 2020",
@@ -53,8 +53,8 @@ export const info = {
 
   education: [
     {
-      name: "Pakistan Institute of Professional Science & Technology (PIPS-TECH)",
-      location: "Karāchi, Sindh, Pakistan",
+      name: "Wichienmatu school",
+      location: "Trang, Thailand",
       startDate: "2019",
       endDate: "2022",
       description: [
@@ -62,18 +62,11 @@ export const info = {
       ],
     },
     {
-      name: "Govt. Degree Boys College Buffer Zone",
-      location: "Karāchi, Sindh, Pakistan",
+      name: "Chulalongkorn University",
+      location: "Bangkok, Thailand",
       startDate: "2018",
       endDate: "2020",
       description: ["Intermediate, Pre-Engineering"],
-    },
-    {
-      name: "Ghazi Foundation Schools & Colleges",
-      location: "Karāchi, Sindh, Pakistan",
-      startDate: "2016",
-      endDate: "2018",
-      description: ["Matriculation,  Computer Science"],
     },
   ],
 
@@ -87,7 +80,7 @@ export const info = {
 
   projects: [
     {
-      title: "Astro Portfolio",
+      title: "Pussadu vidya",
       isFeatured: true,
       thumbnail: "/assets/images/astro-portfolio.png",
       githubUrl: "https://github.com/uzzii-21/astro-portfolio",
